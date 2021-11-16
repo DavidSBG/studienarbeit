@@ -1,1 +1,1 @@
-# studienarbeit
+# Studienarbeit Visual Analytics mit Fitnessdaten
