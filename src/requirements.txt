@@ -2,3 +2,5 @@ notebook
 matplotlib
 pandas
 fitparse
+plotly
+ipywidgets
