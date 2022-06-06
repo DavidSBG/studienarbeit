@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-
 def semiCirclesToDegrees(semicircles):
     if semicircles == None:
         return None
