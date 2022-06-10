@@ -1,3 +1,4 @@
 src/sdk/
-src/data/
+src/data/v1/*
+src/data/v2/*
 src/venv/
